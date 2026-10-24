@@ -1,16 +1,16 @@
-## Hi there 👋
+# Hi, I'm Aishik 👋
 
-<!--
-**sleepyaishik69/sleepyaishik69** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I build web apps and developer tools, with recent projects in local AI, retail analytics, and interactive experiences.
 
-Here are some ideas to get you started:
+## Selected projects
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- [dumper](https://github.com/sleepyaishik69/dumper) — a TypeScript CLI that organizes files with a local Ollama model.
+- [Stock-Sense](https://github.com/sleepyaishik69/Stock-Sense) — a retail analytics dashboard with a Next.js frontend and FastAPI backend.
+- [ChromaWild](https://github.com/sleepyaishik69/ChromaWild) — a color-walk field journal with locally generated quests.
+
+## Tools I use
+
+TypeScript · Next.js · Python · FastAPI · Ollama
+
+---
+[Browse my repositories](https://github.com/sleepyaishik69?tab=repositories)
